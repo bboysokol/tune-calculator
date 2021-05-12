@@ -65,7 +65,7 @@ export default {
 
 				return {
 					name: `${item.name} ${item.stage ? item.stage : ""}`,
-					price: price,
+					price: Math.round(price),
 					fee: item.fee
 				};
 			});
