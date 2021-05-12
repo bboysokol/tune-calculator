@@ -1,6 +1,9 @@
 <template>
-	<div class="col-12 vh-100 d-flex justify-content-center align-items-center">
-		<login v-if="isLogged" />
+	<div
+		class="col-12 vh-100 d-flex justify-content-center align-items-center"
+		style="background-color: rgba(158, 240, 215, 0.2)"
+	>
+		<login v-if="!isLogged" />
 		<calculator v-else />
 	</div>
 </template>

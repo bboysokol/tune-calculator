@@ -1,0 +1,22 @@
+export const visualParts = [
+	{ id: 1, name: "Motocykle", price: 0.07, fee: 150 },
+	{ id: 2, name: "Maska", price: 0.05, fee: 150 },
+	{ id: 3, name: "Dach", price: 0.05, fee: 150 },
+	{ id: 4, name: "Grill", price: 0.05, fee: 150 },
+	{ id: 5, name: "Wydech", price: 0.05, fee: 150 },
+	{ id: 6, name: "Fotel", price: 0.05, fee: 150 },
+	{ id: 7, name: "Zderzak przedni", price: 0.1, fee: 250 },
+	{ id: 8, name: "Zderzak tylny", price: 0.1, fee: 250 },
+	{ id: 9, name: "Spoiler", price: 0.05, fee: 250 },
+	{ id: 10, name: "Progi/błotniki", price: 0.1, fee: 250 },
+	{ id: 11, name: "Nakładki na dach", price: 0.05, fee: 150 },
+	{ id: 12, name: "Klatka bezpieczeństwa", price: 0.1, fee: 2500 },
+	{ id: 13, name: "Body", price: 0.05, fee: 1000 },
+	{ id: 14, name: "Wózek do wheele", price: 0.1, fee: 500 },
+	{ id: 15, name: "Niestandardowe opony", price: 0.05, fee: 150 },
+	{ id: 16, name: "Benny's", price: 0.05, fee: 150 },
+	{ id: 17, name: "Benny's 2", price: 0.05, fee: 150 },
+	{ id: 18, name: "Benny's 3", price: 0.05, fee: 150 },
+	{ id: 19, name: "Benny's 4", price: 0.05, fee: 150 },
+	{ id: 20, name: "Benny's 5", price: 0.05, fee: 150 }
+];

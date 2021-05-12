@@ -7,7 +7,7 @@ export default new Vuex.Store({
 	state: {
 		logggedIn: false,
 		carInfo: null,
-		carTune: null
+		carTune: []
 	},
 	getters: {
 		isLogged: (state) => state.logggedIn,

@@ -1,45 +1,59 @@
 <template>
-	<el-card
-		class="
-			box-card
-			col-12 col-md-6 col-lg-6
-			d-flex
-			flex-column
-			align-items-center
-		"
-		:body-style="{ width: '100%' }"
-	>
-		<div slot="header" class="clearfix">
-			<h4 class="text-center">Tune Calculator</h4>
-		</div>
-		<div class="col-12 d-flex flex-column align-items-center">
-			<el-autocomplete
-				class="inline-input"
-				v-model="pickedCar"
-				:fetch-suggestions="querySearch"
-				value-key="name"
-				placeholder="Wybierz samochód"
-				@select="handleSelect"
-			>
-			</el-autocomplete>
-			<div class="py-2"><car-data /></div>
-			<div class="col-12 d-flex justify-content-end pt-3">
-				<el-button
-					@click="calculate"
-					type="primary"
-					plain
-					:disabled="!calculate"
-				>
-					Oblicz
-				</el-button>
+	<div class="col-12 d-flex justify-content-center flex-column flex-md-row">
+		<el-card
+			class="
+				box-card
+				col-12 col-md-6 col-lg-6
+				d-flex
+				flex-column
+				align-items-center
+				m-2
+			"
+			style="max-height: 800px; overflow-y: auto"
+			:body-style="{ width: '100%' }"
+		>
+			<div slot="header" class="clearfix">
+				<h4 class="text-center">Tune Calculator</h4>
 			</div>
-		</div>
-	</el-card>
+			<div class="col-12 d-flex flex-column align-items-center">
+				<el-autocomplete
+					class="inline-input"
+					v-model="pickedCar"
+					:fetch-suggestions="querySearch"
+					value-key="name"
+					placeholder="Wybierz samochód"
+					@select="handleSelect"
+				>
+				</el-autocomplete>
+				<div class="py-2" v-if="pickedCar"><car-data /></div>
+			</div>
+		</el-card>
+		<el-card
+			class="
+				box-card
+				col-12 col-md-4 col-lg-4
+				d-flex
+				flex-column
+				align-items-center
+				m-2
+			"
+			style="max-height: 800px; overflow-y: auto"
+			:body-style="{ width: '100%' }"
+		>
+			<div slot="header" class="clearfix">
+				<h4 class="text-center">Podsumowanie</h4>
+			</div>
+			<div class="col-12 d-flex flex-column align-items-center">
+				<bill />
+			</div>
+		</el-card>
+	</div>
 </template>
 <script>
 import { mapActions } from "vuex";
 import { cars } from "../data/vehicles.json";
 import CarData from "./CarData";
+import Bill from "./Bill";
 export default {
 	data() {
 		return {
@@ -53,26 +67,21 @@ export default {
 			this.setCarInfo(carInfo);
 		},
 		querySearch(queryString, cb) {
-			var cars = this.cars;
-			var results = queryString
+			const cars = this.cars;
+			const results = queryString
 				? cars.filter(this.createFilter(queryString))
 				: cars;
-			console.log(results);
 			cb(results);
 		},
 		createFilter(queryString) {
-			return (car) => {
-				return (
-					car.name
-						.toLowerCase()
-						.indexOf(queryString.toLowerCase()) === 0
-				);
-			};
+			return (car) =>
+				car.name.toLowerCase().indexOf(queryString.toLowerCase()) === 0;
 		},
 		calculate() {}
 	},
 	components: {
-		CarData
+		CarData,
+		Bill
 	}
 };
 </script>
