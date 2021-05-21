@@ -25,7 +25,7 @@ export default new Vuex.Store({
 			state.carTune = data;
 		},
 		clearCarData(state) {
-			state.carTune = null;
+			state.carTune = [];
 			state.carInfo = null;
 		}
 	},

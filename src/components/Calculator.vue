@@ -2,23 +2,23 @@
 	<div class="col-12 d-flex justify-content-center flex-column flex-md-row">
 		<el-card
 			class="
-				box-card
 				col-12 col-md-6 col-lg-6
 				d-flex
 				flex-column
 				align-items-center
 				m-2
+				calculator-card
 			"
-			style="max-height: 800px; overflow-y: auto"
 			:body-style="{ width: '100%' }"
 		>
 			<div slot="header" class="clearfix">
-				<h4 class="text-center">Tune Calculator</h4>
+				<h4 class="text-center"><strong>Tune Calculator</strong></h4>
 			</div>
 			<div class="col-12 d-flex flex-column align-items-center">
 				<el-autocomplete
 					class="inline-input"
 					v-model="pickedCar"
+					clearable
 					:fetch-suggestions="querySearch"
 					value-key="name"
 					placeholder="Wybierz samochód"
@@ -30,18 +30,17 @@
 		</el-card>
 		<el-card
 			class="
-				box-card
 				col-12 col-md-4 col-lg-4
 				d-flex
 				flex-column
 				align-items-center
 				m-2
+				calculator-card
 			"
-			style="max-height: 800px; overflow-y: auto"
 			:body-style="{ width: '100%' }"
 		>
 			<div slot="header" class="clearfix">
-				<h4 class="text-center">Podsumowanie</h4>
+				<h4 class="text-center"><strong>Podsumowanie</strong></h4>
 			</div>
 			<div class="col-12 d-flex flex-column align-items-center">
 				<bill />
@@ -62,7 +61,7 @@ export default {
 		};
 	},
 	methods: {
-		...mapActions(["setCarInfo"]),
+		...mapActions(["setCarInfo", "clearCarData"]),
 		handleSelect(carInfo) {
 			this.setCarInfo(carInfo);
 		},
@@ -79,9 +78,21 @@ export default {
 		},
 		calculate() {}
 	},
+	watch: {
+		pickedCar(newVal) {
+			if (!newVal) this.clearCarData();
+		}
+	},
 	components: {
 		CarData,
 		Bill
 	}
 };
 </script>
+<style>
+.calculator-card {
+	max-height: 800px !important;
+	overflow-y: auto !important;
+	border: none !important;
+}
+</style>
