@@ -5,7 +5,7 @@
 			Nazwa: <strong>{{ carInfo.name }}</strong>
 		</p>
 		<p class="mb-1">Cena: ${{ carInfo.price }}</p>
-		<p class="mb-1">Kategoria: {{ carInfo.name }}</p>
+		<p class="mb-1">Kategoria: {{ carInfo.category }}</p>
 		<h5 class="text-center">Tuning</h5>
 		<div class="col-12 d-flex flex-wrap">
 			<div class="col-12 col-md-6 col-lg-4">

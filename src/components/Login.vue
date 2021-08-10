@@ -1,15 +1,15 @@
 <template>
 	<el-card
 		class="
-			box-card
 			col-12 col-md-6 col-lg-3
 			d-flex
 			flex-column
 			align-items-center
+			no-border
 		"
 	>
 		<div slot="header" class="clearfix">
-			<h4 class="text-center">Tune Calculator</h4>
+			<h4 class="text-center"><strong> Tune Calculator</strong></h4>
 		</div>
 		<el-alert v-if="alert" title="Błędne hasło" type="error" class="mb-3">
 		</el-alert>
@@ -49,3 +49,8 @@ export default {
 	}
 };
 </script>
+<style>
+.no-border {
+	border: none !important;
+}
+</style>
