@@ -10,7 +10,7 @@
 		<el-input
 			placeholder="Wpisz hasło"
 			v-model="password"
-			@keydown.enter="login"
+			@keyup.enter.native="login"
 			show-password
 		></el-input>
 		<div class="col-12 d-flex justify-content-center pt-3">
@@ -37,7 +37,7 @@ export default {
 	methods: {
 		...mapActions(["setSession"]),
 		login() {
-			if ("process.env.VUE_APP_PASSWORD" === this.password)
+			if (process.env.VUE_APP_PASSWORD === this.password)
 				this.setSession();
 			else this.alert = true;
 		},
