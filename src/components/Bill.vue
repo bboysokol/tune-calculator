@@ -43,30 +43,19 @@ export default {
 		carParts() {
 			return this.carTune.map((item) => {
 				let price = 0;
-				switch (true) {
-					case this.carInfo.price > 100000 &&
-						this.carInfo.price < 200000:
-						price = item.price * 150000;
-						break;
-					case this.carInfo.price >= 200000 &&
-						this.carInfo.price <= 300000:
-						price = item.price * 200000;
-						break;
-					case this.carInfo.price >= 300000 &&
-						this.carInfo.price <= 500000:
-						price = item.price * 250000;
-						break;
-					case this.carInfo.price >= 500000:
-						price = item.price * 300000;
-						break;
-					default:
-						price = item.price * this.carInfo.price;
+
+				if (this.carInfo.price >= 350000) {
+					price = (item.price[2] ?? item.price) * 350000;
+				} else if (this.carInfo.price >= 200000) {
+					price = (item.price[1] ?? item.price) * this.carInfo.price;
+				} else {
+					price = (item.price[0] ?? item.price) * this.carInfo.price;
 				}
 
 				return {
 					name: `${item.name} ${item.stage ? item.stage : ""}`,
 					price: Math.round(price),
-					fee: item.fee
+					fee: item.fee,
 				};
 			});
 		},
@@ -81,8 +70,8 @@ export default {
 			let totalFee = 0;
 			this.carParts.forEach((item) => (totalFee += item.fee));
 			return totalFee;
-		}
-	}
+		},
+	},
 };
 </script>
 <style></style>

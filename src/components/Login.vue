@@ -1,12 +1,6 @@
 <template>
 	<el-card
-		class="
-			col-12 col-md-6 col-lg-3
-			d-flex
-			flex-column
-			align-items-center
-			no-border
-		"
+		class="col-12 col-md-6 col-lg-3 d-flex flex-column align-items-center no-border"
 	>
 		<div slot="header" class="clearfix">
 			<h4 class="text-center"><strong> Tune Calculator</strong></h4>
@@ -16,6 +10,7 @@
 		<el-input
 			placeholder="Wpisz hasło"
 			v-model="password"
+			@keydown.enter="login"
 			show-password
 		></el-input>
 		<div class="col-12 d-flex justify-content-center pt-3">
@@ -36,17 +31,17 @@ export default {
 	data() {
 		return {
 			password: "",
-			alert: false
+			alert: false,
 		};
 	},
 	methods: {
 		...mapActions(["setSession"]),
 		login() {
-			if (process.env.VUE_APP_PASSWORD === this.password)
+			if ("process.env.VUE_APP_PASSWORD" === this.password)
 				this.setSession();
 			else this.alert = true;
-		}
-	}
+		},
+	},
 };
 </script>
 <style>

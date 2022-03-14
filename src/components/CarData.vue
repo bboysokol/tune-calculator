@@ -110,7 +110,7 @@
 						<el-checkbox
 							class="my-1 mx-1"
 							v-for="item in availableMods.visualParts"
-							:key="item.id"
+							:key="item.name"
 							:label="item.name"
 							@change="(ev) => updateParts(ev, item)"
 							border
@@ -129,7 +129,7 @@ import {
 	turbo,
 	suspension,
 	brakes,
-	transmission
+	transmission,
 } from "../helpers/mechanicalParts";
 export default {
 	data() {
@@ -140,7 +140,7 @@ export default {
 				suspension,
 				brakes,
 				transmission,
-				visualParts
+				visualParts,
 			},
 			engine: [],
 			suspension: [],
@@ -148,11 +148,11 @@ export default {
 			brakes: [],
 			turbo: [],
 			visuals: [],
-			parts: []
+			parts: [],
 		};
 	},
 	computed: {
-		...mapGetters(["carInfo"])
+		...mapGetters(["carInfo"]),
 	},
 	methods: {
 		...mapActions(["setCarTune"]),
@@ -164,12 +164,12 @@ export default {
 					1
 				);
 			}
-		}
+		},
 	},
 	watch: {
 		parts(newVal) {
 			this.setCarTune(newVal);
-		}
-	}
+		},
+	},
 };
 </script>
