@@ -1,5 +1,6 @@
 import Vue from "vue";
 import Vuex from "vuex";
+import { setSessionCookie } from "../helpers/cookieHelper";
 
 Vue.use(Vuex);
 
@@ -7,12 +8,12 @@ export default new Vuex.Store({
 	state: {
 		logggedIn: false,
 		carInfo: null,
-		carTune: []
+		carTune: [],
 	},
 	getters: {
 		isLogged: (state) => state.logggedIn,
 		carInfo: (state) => state.carInfo,
-		carTune: (state) => state.carTune
+		carTune: (state) => state.carTune,
 	},
 	mutations: {
 		setUser(state) {
@@ -27,10 +28,11 @@ export default new Vuex.Store({
 		clearCarData(state) {
 			state.carTune = [];
 			state.carInfo = null;
-		}
+		},
 	},
 	actions: {
 		setSession({ commit }) {
+			setSessionCookie();
 			commit("setUser");
 		},
 		setCarInfo({ commit }, data) {
@@ -41,6 +43,6 @@ export default new Vuex.Store({
 		},
 		clearCarData({ commit }) {
 			commit("clearCarData");
-		}
-	}
+		},
+	},
 });
