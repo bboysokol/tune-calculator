@@ -11,6 +11,16 @@
 			"category": "JDM"
 		},
 		{
+			"name": "Elegy RH7 (Addon)",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 3,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 105000,
+			"category": "JDM"
+		},
+		{
 			"name": "Elegy RH8",
 			"engine": 4,
 			"brakes": 3,
@@ -47,11 +57,11 @@
 			"suspension": 4,
 			"transmission": 3,
 			"turbo": 1,
-			"price": 90000,
+			"price": 65000,
 			"category": "JDM"
 		},
 		{
-			"name": "S-230",
+			"name": "S-230 (Addon)",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
@@ -71,7 +81,7 @@
 			"category": "JDM"
 		},
 		{
-			"name": "ZR-350",
+			"name": "ZR-350 (Addon)",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
@@ -91,20 +101,20 @@
 			"category": "JDM"
 		},
 		{
-			"name": "ZR-380",
+			"name": "ZR-380 (Addon)",
 			"engine": 4,
 			"brakes": 3,
-			"suspension": 4,
+			"suspension": 0,
 			"transmission": 3,
 			"turbo": 1,
-			"price": 250000,
+			"price": 75000,
 			"category": "JDM"
 		},
 		{
-			"name": "ZR-380",
+			"name": "ZR-380 Widebody (Addon)",
 			"engine": 4,
 			"brakes": 3,
-			"suspension": 4,
+			"suspension": 0,
 			"transmission": 3,
 			"turbo": 1,
 			"price": 75000,
@@ -171,7 +181,7 @@
 			"category": "JDM"
 		},
 		{
-			"name": "Nexus",
+			"name": "Nexus (Addon)",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
@@ -211,7 +221,7 @@
 			"category": "JDM"
 		},
 		{
-			"name": "Ariant",
+			"name": "Ariant (Addon)",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
@@ -321,7 +331,7 @@
 			"category": "JDM"
 		},
 		{
-			"name": "Sunrise R",
+			"name": "Sunrise R (Addon)",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
