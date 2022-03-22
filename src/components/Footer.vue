@@ -1,13 +1,6 @@
 <template>
 	<div
-		class="
-			d-flex
-			flex-column
-			justify-content-center
-			align-items-center
-			mt-2
-			footer-container
-		"
+		class="d-flex flex-column justify-content-center align-items-center mt-2 footer-container"
 	>
 		<i class="fab fa-github github" @click="goToGithub()"></i>
 		<small>
@@ -25,8 +18,8 @@ export default {
 		goToGithub() {
 			window.location.href =
 				"https://github.com/bboysokol/tune-calculator";
-		}
-	}
+		},
+	},
 };
 </script>
 <style>
