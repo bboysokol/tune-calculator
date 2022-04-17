@@ -4,7 +4,7 @@ const SESSION_COOKIE_NAME = "common_token";
 const APP_DOMAIN = process.env.VUE_APP_NODE_ENV === "prod" ? "v-rp.pl" : "";
 
 const defaultParams = {
-	expires: "8h",
+	expires: "72h",
 };
 
 export function hasSessionCookie() {

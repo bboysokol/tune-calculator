@@ -1,7 +1,17 @@
 {
 	"cars": [
 		{
-			"name": "Elegy Retro Custom",
+			"name": "Elegy RH4",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 58500,
+			"category": "JDM"
+		},
+		{
+			"name": "Elegy RH5",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
