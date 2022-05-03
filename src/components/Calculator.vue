@@ -1,14 +1,7 @@
 <template>
 	<div class="col-12 d-flex justify-content-center flex-column flex-md-row">
 		<el-card
-			class="
-				col-12 col-md-6 col-lg-6
-				d-flex
-				flex-column
-				align-items-center
-				m-2
-				calculator-card
-			"
+			class="col-12 col-md-6 col-lg-6 d-flex flex-column align-items-center m-2 calculator-card"
 			:body-style="{ width: '100%' }"
 		>
 			<div slot="header" class="clearfix">
@@ -29,14 +22,7 @@
 			</div>
 		</el-card>
 		<el-card
-			class="
-				col-12 col-md-4 col-lg-4
-				d-flex
-				flex-column
-				align-items-center
-				m-2
-				calculator-card
-			"
+			class="col-12 col-md-4 col-lg-4 d-flex flex-column align-items-center m-2 calculator-card"
 			:body-style="{ width: '100%' }"
 		>
 			<div slot="header" class="clearfix">
@@ -57,7 +43,7 @@ export default {
 	data() {
 		return {
 			cars: cars,
-			pickedCar: ""
+			pickedCar: "",
 		};
 	},
 	methods: {
@@ -74,19 +60,19 @@ export default {
 		},
 		createFilter(queryString) {
 			return (car) =>
-				car.name.toLowerCase().indexOf(queryString.toLowerCase()) === 0;
+				car.name.toLowerCase().includes(queryString.toLowerCase());
 		},
-		calculate() {}
+		calculate() {},
 	},
 	watch: {
 		pickedCar(newVal) {
 			if (!newVal) this.clearCarData();
-		}
+		},
 	},
 	components: {
 		CarData,
-		Bill
-	}
+		Bill,
+	},
 };
 </script>
 <style>
