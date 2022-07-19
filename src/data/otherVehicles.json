@@ -11,16 +11,6 @@
 			"category": "Sport"
 		},
 		{
-			"name": "Stratum",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8440,
-			"category": "null"
-		},
-		{
 			"name": "V-STR",
 			"engine": 4,
 			"brakes": 3,
@@ -48,16 +38,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 189570,
-			"category": "Sport"
-		},
-		{
-			"name": "Banshee",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 105000,
 			"category": "Sport"
 		},
 		{
@@ -131,16 +111,6 @@
 			"category": "Sport"
 		},
 		{
-			"name": "Jester",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 150000,
-			"category": "JDM"
-		},
-		{
 			"name": "Cognoscenti Cabrio",
 			"engine": 4,
 			"brakes": 3,
@@ -198,16 +168,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 0,
-			"category": "null"
-		},
-		{
-			"name": "Tailgater",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 43750,
 			"category": "null"
 		},
 		{
@@ -298,16 +258,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 22,
-			"category": "Sport"
-		},
-		{
-			"name": "Coquette",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 215000,
 			"category": "Sport"
 		},
 		{
@@ -872,24 +822,6 @@
 			"category": "Supercar"
 		},
 		{
-			"name": "Lurcher",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Virgo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 9540
-		},
-		{
 			"name": "Primo (custom)",
 			"engine": 4,
 			"brakes": 3,
@@ -935,60 +867,6 @@
 			"price": 22
 		},
 		{
-			"name": "Gauntlet Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 35660
-		},
-		{
-			"name": "Gauntlet Hellfire",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 152780
-		},
-		{
-			"name": "Gauntlet",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 63200
-		},
-		{
-			"name": "Buffalo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 34230
-		},
-		{
-			"name": "Buffalo S",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65100
-		},
-		{
-			"name": "Picador",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8900
-		},
-		{
 			"name": "Sabre Turbo (custom)",
 			"engine": 4,
 			"brakes": 3,
@@ -998,150 +876,6 @@
 			"price": 22
 		},
 		{
-			"name": "Tampa",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 30810
-		},
-		{
-			"name": "Stalion",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 21110
-		},
-		{
-			"name": "Vigero",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 21500
-		},
-		{
-			"name": "Yosemite",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000
-		},
-		{
-			"name": "Impaler",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 23030
-		},
-		{
-			"name": "Tulip",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 24000
-		},
-		{
-			"name": "Vamos",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 70050
-		},
-		{
-			"name": "Virgo Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Dukes",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 42400
-		},
-		{
-			"name": "Nightshade",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 125000
-		},
-		{
-			"name": "Phoenix",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 26970
-		},
-		{
-			"name": "Ruiner",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 28690
-		},
-		{
-			"name": "Deviant",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 180980
-		},
-		{
-			"name": "Dominator",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 49200
-		},
-		{
-			"name": "Dominator GTX",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 120000
-		},
-		{
-			"name": "Slamvan",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 14500
-		},
-		{
 			"name": "Stanier",
 			"engine": 4,
 			"brakes": 3,
@@ -1149,24 +883,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 9450
-		},
-		{
-			"name": "Peyote (muscle)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Faction",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 7750
 		},
 		{
 			"name": "Cavalcade",
@@ -1266,15 +982,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 22
-		},
-		{
-			"name": "Gresley",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 29750
 		},
 		{
 			"name": "Bison",
@@ -1664,15 +1371,6 @@
 			"price": 22
 		},
 		{
-			"name": "Buccaneer",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 14000
-		},
-		{
 			"name": "Buccaneer Custom",
 			"engine": 4,
 			"brakes": 3,
@@ -1691,55 +1389,10 @@
 			"price": 22
 		},
 		{
-			"name": "Tornado",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Blade",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35000
-		},
-		{
-			"name": "Chino",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 12300
-		},
-		{
 			"name": "Chino Custom",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Hotknife",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Hustler",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
 			"transmission": 3,
 			"turbo": 1,
 			"price": 22
@@ -1988,25 +1641,7 @@
 			"price": 22
 		},
 		{
-			"name": "Coquette Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
 			"name": "Casco",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Pigalle",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
@@ -2019,15 +1654,6 @@
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Michelli GT",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
 			"transmission": 3,
 			"turbo": 1,
 			"price": 22
@@ -2150,24 +1776,6 @@
 			"price": 22
 		},
 		{
-			"name": "Sentinel Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Zion Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 22
-		},
-		{
 			"name": "GB200",
 			"engine": 4,
 			"brakes": 3,
@@ -2177,46 +1785,10 @@
 			"price": 22
 		},
 		{
-			"name": "Ellie",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Clique",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 22
-		},
-		{
 			"name": "Winky",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 2,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Issi Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22
-		},
-		{
-			"name": "Dynasty",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
 			"transmission": 3,
 			"turbo": 1,
 			"price": 22
@@ -2375,15 +1947,6 @@
 			"price": 22
 		},
 		{
-			"name": "Voodoo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 19150
-		},
-		{
 			"name": "Sadler",
 			"engine": 4,
 			"brakes": 3,
@@ -2411,15 +1974,6 @@
 			"price": 105000
 		},
 		{
-			"name": "Primo ",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 10240
-		},
-		{
 			"name": "Taxi",
 			"engine": 4,
 			"brakes": 3,
@@ -2427,15 +1981,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 25000
-		},
-		{
-			"name": "Manana",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 9100
 		},
 		{
 			"name": "Cavalcade II",
