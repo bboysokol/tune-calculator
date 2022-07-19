@@ -861,13 +861,14 @@
 			"category": "<100k"
 		},
 		{
-			"name": "Primo ",
+			"name": "Primo",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
 			"transmission": 3,
 			"turbo": 1,
-			"price": 10240
+			"price": 10240,
+			"category": "<100k"
 		},
 		{
 			"name": "Sentinel SG3 SE Wagon (Addon)",
