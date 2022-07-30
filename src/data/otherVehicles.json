@@ -31,16 +31,6 @@
 			"category": "Sport"
 		},
 		{
-			"name": "Surano",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 189570,
-			"category": "Sport"
-		},
-		{
 			"name": "Banshee 900R",
 			"engine": 4,
 			"brakes": 3,
@@ -58,36 +48,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 350000,
-			"category": "Sport"
-		},
-		{
-			"name": "Exemplar",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 140000,
-			"category": "Sport"
-		},
-		{
-			"name": "Massacro",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 133000,
-			"category": "Sport"
-		},
-		{
-			"name": "Rapid GT (zwykły)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 110000,
 			"category": "Sport"
 		},
 		{
@@ -310,16 +270,7 @@
 			"price": 192600,
 			"category": "Sport"
 		},
-		{
-			"name": "Ocelot F620",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 225000,
-			"category": "Sport"
-		},
+
 		{
 			"name": "Lynx",
 			"engine": 4,
@@ -368,16 +319,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 480888,
-			"category": "Sport"
-		},
-		{
-			"name": "Comet",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 135000,
 			"category": "Sport"
 		},
 		{
@@ -450,15 +391,34 @@
 			"price": 22,
 			"category": "Supercar"
 		},
-
 		{
-			"name": "Voltic",
+			"name": "Obey 10F",
 			"engine": 4,
 			"brakes": 3,
 			"suspension": 4,
-			"transmission": 0,
+			"transmission": 3,
 			"turbo": 1,
-			"price": 22,
+			"price": 765000,
+			"category": "Supercar"
+		},
+		{
+			"name": "Corsita",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 3,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 1150000,
+			"category": "Supercar"
+		},
+		{
+			"name": "Pegassi Torero X0",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 3,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 2450000,
 			"category": "Supercar"
 		},
 		{
@@ -1990,6 +1950,26 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 28900
+		},
+		{
+			"name": "Omnis e-GT",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 600000,
+			"category": "Sport"
+		},
+		{
+			"name": "Rhinehart",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 179000,
+			"category": "Sport"
 		}
 	]
 }

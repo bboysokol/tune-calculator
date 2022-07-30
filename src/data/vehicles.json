@@ -161,6 +161,26 @@
 			"category": "JDM"
 		},
 		{
+			"name": "Blista Kanjo SJ",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 16500,
+			"category": "JDM"
+		},
+		{
+			"name": "Postlude",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 34000,
+			"category": "JDM"
+		},
+		{
 			"name": "Jester RR",
 			"engine": 4,
 			"brakes": 3,
@@ -287,7 +307,7 @@
 			"suspension": 4,
 			"transmission": 3,
 			"turbo": 1,
-			"price": 88000,
+			"price": 85000,
 			"category": "JDM"
 		},
 		{
@@ -431,6 +451,16 @@
 			"category": "JDM"
 		},
 		{
+			"name": "Vectre",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 130000,
+			"category": "JDM"
+		},
+		{
 			"name": "Alpha",
 			"engine": 4,
 			"brakes": 3,
@@ -558,16 +588,6 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 49490,
-			"category": "<100k"
-		},
-		{
-			"name": "Schafter V12",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 115000,
 			"category": "<100k"
 		},
 		{
@@ -1091,6 +1111,146 @@
 			"category": "<100k"
 		},
 		{
+			"name": "Schafter V12",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 115000,
+			"category": "<150k"
+		},
+		{
+			"name": "Ocelot F620",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 150000,
+			"category": "<150k"
+		},
+		{
+			"name": "Voltic",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 0,
+			"turbo": 1,
+			"price": 150000,
+			"category": "<150k"
+		},
+		{
+			"name": "Comet",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 135000,
+			"category": "<150k"
+		},
+		{
+			"name": "Apollo (Addon)",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 145000,
+			"category": "<150k"
+		},
+		{
+			"name": "Rapid GT (zwykły)",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 110000,
+			"category": "<150k"
+		},
+		{
+			"name": "Surano",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 110000,
+			"category": "<150k"
+		},
+		{
+			"name": "Massacro",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 0,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 133000,
+			"category": "<150k"
+		},
+		{
+			"name": "Cypher",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 150000,
+			"category": "<150k"
+		},
+		{
+			"name": "Cypher Compact",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 135000,
+			"category": "<150k"
+		},
+		{
+			"name": "Sprizter STR",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 124000,
+			"category": "<150k"
+		},
+		{
+			"name": "Exemplar",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 115000,
+			"category": "<150k"
+		},
+		{
+			"name": "Taligater S",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 120000,
+			"category": "<150k"
+		},
+		{
+			"name": "Sentinel XS 2gen (Addon)",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 109500,
+			"category": "<150k"
+		},
+		{
 			"name": "Gauntlet Classic",
 			"engine": 4,
 			"brakes": 3,
@@ -1118,6 +1278,16 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 152780,
+			"category": "Muscle"
+		},
+		{
+			"name": "Greenwood",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 30000,
 			"category": "Muscle"
 		},
 		{
@@ -1261,6 +1431,16 @@
 			"category": "Muscle"
 		},
 		{
+			"name": "Vigero ZX",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 3,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 211500,
+			"category": "Muscle"
+		},
+		{
 			"name": "Yosemite",
 			"engine": 4,
 			"brakes": 3,
@@ -1348,6 +1528,16 @@
 			"transmission": 3,
 			"turbo": 1,
 			"price": 28690,
+			"category": "Muscle"
+		},
+		{
+			"name": "Ruiner ZZ-8",
+			"engine": 4,
+			"brakes": 3,
+			"suspension": 4,
+			"transmission": 3,
+			"turbo": 1,
+			"price": 65000,
 			"category": "Muscle"
 		},
 		{
