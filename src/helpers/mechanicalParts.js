@@ -5,6 +5,8 @@ export const suspension = [
 	{ name: "Zawieszenie", stage: 2, price: 0.15, fee: 8000 },
 	{ name: "Zawieszenie", stage: 3, price: 0.2, fee: 8000 },
 	{ name: "Zawieszenie", stage: 4, price: 0.25, fee: 8000 },
+	{ name: "Zawieszenie", stage: 5, price: 0.3, fee: 8000 },
+	{ name: "Zawieszenie", stage: 6, price: 0.35, fee: 8000 },
 ];
 
 export const engine = [

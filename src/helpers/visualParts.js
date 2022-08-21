@@ -11,6 +11,7 @@ export const visualParts = [
 	{ name: "Prawy błotnik", price: [0.1, 0.07, 0.07], fee: 5000 },
 	{ name: "Dach", price: [0.05, 0.02, 0.02], fee: 3000 },
 	{ name: "Ramka tablicy", price: [0.05, 0.05, 0.05], fee: 3000 },
+	{ name: "Dekoracja tablicy", price: [0.05, 0.05, 0.05], fee: 3000 },
 	{ name: "Wykończenie wnętrza", price: [0.1, 0.1, 0.1], fee: 8000 },
 	{ name: "Ozdoby", price: [0.03, 0.03, 0.03], fee: 3000 },
 	{ name: "Deska rozdzielcza", price: [0.05, 0.05, 0.05], fee: 3000 },
@@ -26,7 +27,8 @@ export const visualParts = [
 	{ name: "Blok silnika", price: [0.03, 0.03, 0.03], fee: 3000 },
 	{ name: "Filtr powietrza", price: [0.03, 0.03, 0.03], fee: 3000 },
 	{ name: "Rozpórki", price: [0.05, 0.05, 0.05], fee: 3000 },
-	{ name: "Osłona rozrządu", price: [0.03, 0.03, 0.03], fee: 3000 },
+	{ name: "Osłona paska rozrządu", price: [0.03, 0.03, 0.03], fee: 3000 },
 	{ name: "Anteny", price: [0.03, 0.03, 0.03], fee: 2000 },
 	{ name: "Części zewnętrzne", price: [0.05, 0.05, 0.05], fee: 3000 },
+	{ name: "Bak", price: [0.03, 0.03, 0.03], fee: 3000 },
 ];
