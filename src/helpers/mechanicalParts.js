@@ -1,6 +1,6 @@
 import { TuningEnum } from '../enums/TuningEnum';
 
-export const turbo = [{ name: TuningEnum.TURBO, stage: 1 }];
+export const turbo = [{ name: TuningEnum.TURBO, stage: 1, price: 0.35 }];
 
 export const suspension = [
   { name: TuningEnum.SUSPENSION, stage: 1, price: 0.1 },
