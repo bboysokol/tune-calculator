@@ -1,32 +1,34 @@
-export const turbo = [{ name: "Turbo", stage: 1, price: 0.35, fee: 8000 }];
+import { TuningEnum } from '../enums/TuningEnum';
+
+export const turbo = [{ name: TuningEnum.TURBO, stage: 1 }];
 
 export const suspension = [
-	{ name: "Zawieszenie", stage: 1, price: 0.1, fee: 8000 },
-	{ name: "Zawieszenie", stage: 2, price: 0.15, fee: 8000 },
-	{ name: "Zawieszenie", stage: 3, price: 0.2, fee: 8000 },
-	{ name: "Zawieszenie", stage: 4, price: 0.25, fee: 8000 },
-	{ name: "Zawieszenie", stage: 5, price: 0.3, fee: 8000 },
-	{ name: "Zawieszenie", stage: 6, price: 0.35, fee: 8000 },
+  { name: TuningEnum.SUSPENSION, stage: 1, price: 0.1 },
+  { name: TuningEnum.SUSPENSION, stage: 2, price: 0.15 },
+  { name: TuningEnum.SUSPENSION, stage: 3, price: 0.2 },
+  { name: TuningEnum.SUSPENSION, stage: 4, price: 0.25 },
+  { name: TuningEnum.SUSPENSION, stage: 5, price: 0.3 },
+  { name: TuningEnum.SUSPENSION, stage: 6, price: 0.35 },
 ];
 
 export const engine = [
-	{ name: "Silnik", stage: 1, price: 0.2, fee: 10000 },
-	{ name: "Silnik", stage: 2, price: 0.25, fee: 10000 },
-	{ name: "Silnik", stage: 3, price: 0.3, fee: 10000 },
-	{ name: "Silnik", stage: 4, price: 0.35, fee: 10000 },
-	{ name: "Silnik", stage: 5, price: 0.4, fee: 10000 },
+  { name: TuningEnum.ENGINE, stage: 1, price: 0.2 },
+  { name: TuningEnum.ENGINE, stage: 2, price: 0.25 },
+  { name: TuningEnum.ENGINE, stage: 3, price: 0.3 },
+  { name: TuningEnum.ENGINE, stage: 4, price: 0.35 },
+  { name: TuningEnum.ENGINE, stage: 5, price: 0.4 },
 ];
 
 export const brakes = [
-	{ name: "Hamulce", stage: 1, price: 0.13, fee: 5000 },
-	{ name: "Hamulce", stage: 2, price: 0.18, fee: 5000 },
-	{ name: "Hamulce", stage: 3, price: 0.23, fee: 5000 },
-	{ name: "Hamulce", stage: 4, price: 0.28, fee: 5000 },
+  { name: TuningEnum.BRAKES, stage: 1, price: 0.13 },
+  { name: TuningEnum.BRAKES, stage: 2, price: 0.18 },
+  { name: TuningEnum.BRAKES, stage: 3, price: 0.23 },
+  { name: TuningEnum.BRAKES, stage: 4, price: 0.28 },
 ];
 
 export const transmission = [
-	{ name: "Skrzynia biegów", stage: 1, price: 0.18, fee: 5000 },
-	{ name: "Skrzynia biegów", stage: 2, price: 0.23, fee: 5000 },
-	{ name: "Skrzynia biegów", stage: 3, price: 0.28, fee: 5000 },
-	{ name: "Skrzynia biegów", stage: 4, price: 0.33, fee: 5000 },
+  { name: TuningEnum.TRANSMISSION, stage: 1, price: 0.18 },
+  { name: TuningEnum.TRANSMISSION, stage: 2, price: 0.23 },
+  { name: TuningEnum.TRANSMISSION, stage: 3, price: 0.28 },
+  { name: TuningEnum.TRANSMISSION, stage: 4, price: 0.33 },
 ];

@@ -1,1943 +1,1953 @@
 {
-	"cars": [
-		{
-			"name": "Elegy RH4",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 58500,
-			"category": "JDM"
-		},
-		{
-			"name": "Elegy RH5",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 85000,
-			"category": "JDM"
-		},
-		{
-			"name": "Elegy RH7 (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 105000,
-			"category": "JDM"
-		},
-		{
-			"name": "Elegy RH8",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 150000,
-			"category": "JDM"
-		},
-		{
-			"name": "Euros",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 85000,
-			"category": "JDM"
-		},
-		{
-			"name": "Helion",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 85000,
-			"category": "JDM"
-		},
-		{
-			"name": "Remus",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 49500,
-			"category": "JDM"
-		},
-		{
-			"name": "S-230 (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35000,
-			"category": "JDM"
-		},
-		{
-			"name": "Savestra",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000,
-			"category": "JDM"
-		},
-		{
-			"name": "ZR-350 (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "JDM"
-		},
-		{
-			"name": "ZR-350 gen 2",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "JDM"
-		},
-		{
-			"name": "ZR-380 (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 75000,
-			"category": "JDM"
-		},
-		{
-			"name": "ZR-380 Widebody (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 75000,
-			"category": "JDM"
-		},
-		{
-			"name": "Blista",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 3850,
-			"category": "JDM"
-		},
-		{
-			"name": "Blista Compact",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 9700,
-			"category": "JDM"
-		},
-		{
-			"name": "Blista Kanjo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 13600,
-			"category": "JDM"
-		},
-		{
-			"name": "Blista Kanjo SJ",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 16500,
-			"category": "JDM"
-		},
-		{
-			"name": "Postlude",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 34000,
-			"category": "JDM"
-		},
-		{
-			"name": "Jester RR",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 150000,
-			"category": "JDM"
-		},
-		{
-			"name": "Jester",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 150000,
-			"category": "JDM"
-		},
-		{
-			"name": "Jester Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 110000,
-			"category": "JDM"
-		},
-		{
-			"name": "Nexus (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 175000,
-			"category": "JDM"
-		},
-		{
-			"name": "RT3000",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 64700,
-			"category": "JDM"
-		},
-		{
-			"name": "Sugoi",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 75000,
-			"category": "JDM"
-		},
-		{
-			"name": "190z",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 50000,
-			"category": "JDM"
-		},
-		{
-			"name": "Ariant (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 115000,
-			"category": "JDM"
-		},
-		{
-			"name": "Calico GTF",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 90000,
-			"category": "JDM"
-		},
-		{
-			"name": "Futo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 18900,
-			"category": "JDM"
-		},
-		{
-			"name": "Futo GTX",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35000,
-			"category": "JDM"
-		},
-		{
-			"name": "Intruder",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 13000,
-			"category": "JDM"
-		},
-		{
-			"name": "Kuruma",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 85000,
-			"category": "JDM"
-		},
-		{
-			"name": "Kawaii (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 52500,
-			"category": "JDM"
-		},
-		{
-			"name": "Previon",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 90000,
-			"category": "JDM"
-		},
-		{
-			"name": "Roxanne (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 81700,
-			"category": "JDM"
-		},
-		{
-			"name": "Sultan",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 61220,
-			"category": "JDM"
-		},
-		{
-			"name": "Sultan Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 90000,
-			"category": "JDM"
-		},
-		{
-			"name": "Sultan RS",
-			"engine": 5,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 93500,
-			"category": "JDM"
-		},
-		{
-			"name": "Sultan RS Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 110000,
-			"category": "JDM"
-		},
-		{
-			"name": "Sunrise R (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 90000,
-			"category": "JDM"
-		},
-		{
-			"name": "Vincent Tourer (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 84500,
-			"category": "JDM"
-		},
-		{
-			"name": "Vincent Sport (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 92500,
-			"category": "JDM"
-		},
-		{
-			"name": "Penumbra",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 43000,
-			"category": "JDM"
-		},
-		{
-			"name": "Penumbra FF",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 80000,
-			"category": "JDM"
-		},
-		{
-			"name": "Warrener",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 23870,
-			"category": "JDM"
-		},
-		{
-			"name": "Warrener HKR",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000,
-			"category": "JDM"
-		},
-		{
-			"name": "Vectre",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 130000,
-			"category": "JDM"
-		},
-		{
-			"name": "Alpha",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35200,
-			"category": "<100k"
-		},
-		{
-			"name": "Emperor",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 4500,
-			"category": "<100k"
-		},
-		{
-			"name": "Washington",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 25500,
-			"category": "<100k"
-		},
-		{
-			"name": "Tailgater",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 26000,
-			"category": "<100k"
-		},
-		{
-			"name": "Feltzer",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000,
-			"category": "<100k"
-		},
-		{
-			"name": "Banshee",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "<100k"
-		},
-		{
-			"name": "Stratum",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8440,
-			"category": "<100k"
-		},
-		{
-			"name": "Glendale",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 11020,
-			"category": "<100k"
-		},
-		{
-			"name": "Panto",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 2500,
-			"category": "<100k"
-		},
-		{
-			"name": "Scheisser (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 50000,
-			"category": "<100k"
-		},
-		{
-			"name": "Scharmann (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 40000,
-			"category": "<100k"
-		},
-		{
-			"name": "Schafter",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 38000,
-			"category": "<100k"
-		},
-		{
-			"name": "Schafter LWB",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 49490,
-			"category": "<100k"
-		},
-		{
-			"name": "Schwartzer",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 46860,
-			"category": "<100k"
-		},
-		{
-			"name": "Club",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 28000,
-			"category": "<100k"
-		},
-		{
-			"name": "Coquette",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 75000,
-			"category": "<100k"
-		},
-		{
-			"name": "Weevil",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 21000,
-			"category": "<100k && Classic"
-		},
-		{
-			"name": "Weevil Custom",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 60000,
-			"category": "<100k && Classic"
-		},
-		{
-			"name": "Prairie",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 6250,
-			"category": "<100k"
-		},
-		{
-			"name": "Fugitive",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 12000,
-			"category": "<100k"
-		},
-		{
-			"name": "Surge",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 14000,
-			"category": "<100k"
-		},
-		{
-			"name": "Asea",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 6230,
-			"category": "<100k"
-		},
-		{
-			"name": "Premier",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8250,
-			"category": "<100k"
-		},
-		{
-			"name": "Rhapsod",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 24000,
-			"category": "<100k"
-		},
-		{
-			"name": "Regina",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 5560,
-			"category": "<100k"
-		},
-		{
-			"name": "Habanero",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8000,
-			"category": "<100k"
-		},
-		{
-			"name": "Brioso R/A",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 21500,
-			"category": "<100k"
-		},
-		{
-			"name": "Asterope",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8000,
-			"category": "<100k"
-		},
-		{
-			"name": "Dilettante",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 0,
-			"turbo": 1,
-			"price": 2500,
-			"category": "<100k"
-		},
-		{
-			"name": "Felon",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 70000,
-			"category": "<100k"
-		},
-		{
-			"name": "Felon GT",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 75000,
-			"category": "<100k"
-		},
-		{
-			"name": "Asbo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 15000,
-			"category": "<100k"
-		},
-		{
-			"name": "Taligater",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 26000,
-			"category": "<100k"
-		},
-		{
-			"name": "Jackal",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 96000,
-			"category": "<100k"
-		},
-		{
-			"name": "Fusilade",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 34470,
-			"category": "<100k"
-		},
-		{
-			"name": "Oracle",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 68000,
-			"category": "<100k"
-		},
-		{
-			"name": "Oracle XS",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 51500,
-			"category": "<100k"
-		},
-		{
-			"name": "Oracle V12 (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 63700,
-			"category": "<100k"
-		},
-		{
-			"name": "Oracle V12 Touring (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 63700,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 32000,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel Classic Widebody",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel XS",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 53600,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 SE Sedan (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 42000,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 SE Drift (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 50000,
-			"category": "<100k"
-		},
-		{
-			"name": "Primo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 10240,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 SE Wagon (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 40500,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 SE Coupe (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 37800,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 SE Cabrio (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35000,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 SE Wagon (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 40500,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG3 Drift (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 60000,
-			"category": "<100k"
-		},
-		{
-			"name": "Seraph (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 38500,
-			"category": "<100k"
-		},
-		{
-			"name": "Seraph XS LCI (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 45000,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel XS LCI (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 51500,
-			"category": "<100k"
-		},
-		{
-			"name": "Sentinel SG4 Coupe (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 52500,
-			"category": "<100k"
-		},
-		{
-			"name": "Torrence (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 60000,
-			"category": "<100k"
-		},
-		{
-			"name": "Streiter (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 87000,
-			"category": "<100k"
-		},
-		{
-			"name": "Zion",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 52750,
-			"category": "<100k"
-		},
-		{
-			"name": "Zion Cabrio",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 54200,
-			"category": "<100k"
-		},
-		{
-			"name": "Zion Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 80000,
-			"category": "<100k"
-		},
-		{
-			"name": "Minivan",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 6060,
-			"category": "<100k"
-		},
-		{
-			"name": "Radius",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 9000,
-			"category": "<100k"
-		},
-		{
-			"name": "Retinue MK2",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 40000,
-			"category": "<100k"
-		},
-		{
-			"name": "Retinue",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 40000,
-			"category": "<100k && Classic"
-		},
-		{
-			"name": "Fagaloa",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 12580,
-			"category": "<100k"
-		},
-		{
-			"name": "Ingot",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 7180,
-			"category": "<100k"
-		},
-		{
-			"name": "Nebula Turbo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 23490,
-			"category": "<100k"
-		},
-		{
-			"name": "Issi",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 4300,
-			"category": "<100k"
-		},
-		{
-			"name": "Schafter V12",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 115000,
-			"category": "<150k"
-		},
-		{
-			"name": "Ocelot F620",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 150000,
-			"category": "<150k"
-		},
-		{
-			"name": "Voltic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 0,
-			"turbo": 1,
-			"price": 150000,
-			"category": "<150k"
-		},
-		{
-			"name": "Comet",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 135000,
-			"category": "<150k"
-		},
-		{
-			"name": "Apollo (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 145000,
-			"category": "<150k"
-		},
-		{
-			"name": "Rapid GT (zwykły)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 110000,
-			"category": "<150k"
-		},
-		{
-			"name": "Surano",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 110000,
-			"category": "<150k"
-		},
-		{
-			"name": "Massacro",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 133000,
-			"category": "<150k"
-		},
-		{
-			"name": "Cypher",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 6,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 150000,
-			"category": "<150k"
-		},
-		{
-			"name": "Cypher Compact",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 6,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 135000,
-			"category": "<150k"
-		},
-		{
-			"name": "Sprizter STR",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 124000,
-			"category": "<150k"
-		},
-		{
-			"name": "Exemplar",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 115000,
-			"category": "<150k"
-		},
-		{
-			"name": "Taligater S",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 120000,
-			"category": "<150k"
-		},
-		{
-			"name": "Sentinel XS 2gen (Addon)",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 109500,
-			"category": "<150k"
-		},
-		{
-			"name": "Gauntlet Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 35660,
-			"category": "Muscle"
-		},
-		{
-			"name": "Gauntlet Classic Custom",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 65000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Gauntlet Hellfire",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 152780,
-			"category": "Muscle"
-		},
-		{
-			"name": "Greenwood",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 30000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Gauntlet",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 63200,
-			"category": "Muscle"
-		},
-		{
-			"name": "Howitzer",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35660,
-			"category": "Muscle"
-		},
-		{
-			"name": "Howitzer S",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Recursion",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 22000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Buffalo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 34230,
-			"category": "Muscle"
-		},
-		{
-			"name": "Buffalo S",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65100,
-			"category": "Muscle"
-		},
-		{
-			"name": "Buffalo A/C",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Buffalo Hellhound",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 80000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Buffalo HellFire",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 213500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Picador",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 8900,
-			"category": "Muscle"
-		},
-		{
-			"name": "Tampa",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 30810,
-			"category": "Muscle"
-		},
-		{
-			"name": "Stalion",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 21110,
-			"category": "Muscle"
-		},
-		{
-			"name": "Vigero",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 21500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Vigero 690-SS",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 135000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Vigero ZX",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 211500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Yosemite",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Impaler",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 23030,
-			"category": "Muscle"
-		},
-		{
-			"name": "Tulip",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 24000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Vamos",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 70050,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dukes",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 42400,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dukes Beater",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 7500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Nightshade",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 125000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Phoenix",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 26970,
-			"category": "Muscle"
-		},
-		{
-			"name": "Ruiner",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 28690,
-			"category": "Muscle"
-		},
-		{
-			"name": "Ruiner ZZ-8",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 65000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Deviant",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 180980,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dominator",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 49200,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dominator ASP",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 72500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dominator Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 75000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dominator GTT",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 157000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Dominator GTX",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 120000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Slamvan",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 14500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Peyote",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 25000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Faction",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 7750,
-			"category": "Muscle"
-		},
-		{
-			"name": "Buccaneer",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 14000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Tornado",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 45000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Tornado Convertible",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 57000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Tornado Mariachi",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 6000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Tornado Rat Rod",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 5500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Blade",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 35000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Chino",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 12300,
-			"category": "Muscle"
-		},
-		{
-			"name": "Gresley Hellhound",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 67500
-		},
-		{
-			"name": "Hotknife",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 120000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Hustler",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 108000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Virgo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 9540,
-			"category": "Muscle"
-		},
-		{
-			"name": "Sabre",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 29100,
-			"category": "Muscle"
-		},
-		{
-			"name": "Pigalle",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 70000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Picador EXR",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 67100,
-			"category": "Muscle"
-		},
-		{
-			"name": "Sabre Deluxe",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55320,
-			"category": "Muscle"
-		},
-		{
-			"name": "Ellie",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 170000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Clique",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 4,
-			"turbo": 1,
-			"price": 55000,
-			"category": "Muscle"
-		},
-		{
-			"name": "Voodoo",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 5500,
-			"category": "Muscle"
-		},
-		{
-			"name": "Manana",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 9100,
-			"category": "Muscle"
-		},
-		{
-			"name": "Lurcher",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 100000,
-			"category": "Classic"
-		},
-		{
-			"name": "Fagaloa",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 12580,
-			"category": "Classic"
-		},
-		{
-			"name": "Nebula",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 23490,
-			"category": "<100k && Classic"
-		},
-		{
-			"name": "Idaho",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 7000,
-			"category": "Classic"
-		},
-		{
-			"name": "Coquette Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 0,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 250000,
-			"category": "Classic"
-		},
-		{
-			"name": "Maxwell Marki 1",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 325000,
-			"category": "Classic"
-		},
-		{
-			"name": "Michelli GT",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 4,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 135000,
-			"category": "Classic"
-		},
-		{
-			"name": "Dynasty",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 5,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 40000,
-			"category": "Classic"
-		},
-		{
-			"name": "Issi Classic",
-			"engine": 4,
-			"brakes": 3,
-			"suspension": 3,
-			"transmission": 3,
-			"turbo": 1,
-			"price": 55000,
-			"category": "Classic"
-		}
-	]
+  "cars": [
+    {
+      "name": "Elegy RH4",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 58500,
+      "category": "JDM"
+    },
+    {
+      "name": "Elegy RH5",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 85000,
+      "category": "JDM"
+    },
+    {
+      "name": "Elegy RH7 (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 105000,
+      "category": "JDM"
+    },
+    {
+      "name": "Elegy RH8",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 150000,
+      "category": "JDM"
+    },
+    {
+      "name": "Euros",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 85000,
+      "category": "JDM"
+    },
+    {
+      "name": "Helion",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 85000,
+      "category": "JDM"
+    },
+    {
+      "name": "Remus",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 49500,
+      "category": "JDM"
+    },
+    {
+      "name": "S-230 (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 35000,
+      "category": "JDM"
+    },
+    {
+      "name": "Savestra",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55000,
+      "category": "JDM"
+    },
+    {
+      "name": "ZR-350 (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "JDM"
+    },
+    {
+      "name": "ZR-350 gen 2",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "JDM"
+    },
+    {
+      "name": "ZR-380 (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 75000,
+      "category": "JDM"
+    },
+    {
+      "name": "ZR-380 Widebody (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 75000,
+      "category": "JDM"
+    },
+    {
+      "name": "Blista",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 3850,
+      "category": "JDM"
+    },
+    {
+      "name": "Blista Compact",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 9700,
+      "category": "JDM"
+    },
+    {
+      "name": "Blista Kanjo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 13600,
+      "category": "JDM"
+    },
+    {
+      "name": "Blista Kanjo SJ",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 16500,
+      "category": "JDM"
+    },
+    {
+      "name": "Postlude",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 34000,
+      "category": "JDM"
+    },
+    {
+      "name": "Jester RR",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 150000,
+      "category": "JDM"
+    },
+    {
+      "name": "Jester",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 150000,
+      "category": "JDM"
+    },
+    {
+      "name": "Jester Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 110000,
+      "category": "JDM"
+    },
+    {
+      "name": "Nexus (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 175000,
+      "category": "JDM"
+    },
+    {
+      "name": "RT3000",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 64700,
+      "category": "JDM"
+    },
+    {
+      "name": "Sugoi",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 75000,
+      "category": "JDM"
+    },
+    {
+      "name": "190z",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 50000,
+      "category": "JDM"
+    },
+    {
+      "name": "Ariant (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 115000,
+      "category": "JDM"
+    },
+    {
+      "name": "Calico GTF",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 90000,
+      "category": "JDM"
+    },
+    {
+      "name": "Futo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 18900,
+      "category": "JDM"
+    },
+    {
+      "name": "Futo GTX",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 35000,
+      "category": "JDM"
+    },
+    {
+      "name": "Intruder",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 13000,
+      "category": "JDM"
+    },
+    {
+      "name": "Kuruma",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 85000,
+      "category": "JDM"
+    },
+    {
+      "name": "Kawaii (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 52500,
+      "category": "JDM"
+    },
+    {
+      "name": "Previon",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 90000,
+      "category": "JDM"
+    },
+    {
+      "name": "Roxanne (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 81700,
+      "category": "JDM"
+    },
+    {
+      "name": "Sultan",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 61220,
+      "category": "JDM"
+    },
+    {
+      "name": "Sultan Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 90000,
+      "category": "JDM"
+    },
+    {
+      "name": "Sultan RS",
+      "engine": 5,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 93500,
+      "category": "JDM"
+    },
+    {
+      "name": "Sultan RS Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 110000,
+      "category": "JDM"
+    },
+    {
+      "name": "Sunrise R (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 90000,
+      "category": "JDM"
+    },
+    {
+      "name": "Vincent Tourer (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 84500,
+      "category": "JDM"
+    },
+    {
+      "name": "Vincent Sport (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 92500,
+      "category": "JDM"
+    },
+    {
+      "name": "Penumbra",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 43000,
+      "category": "JDM"
+    },
+    {
+      "name": "Penumbra FF",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 80000,
+      "category": "JDM"
+    },
+    {
+      "name": "Warrener",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 23870,
+      "category": "JDM"
+    },
+    {
+      "name": "Warrener HKR",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55000,
+      "category": "JDM"
+    },
+    {
+      "name": "Vectre",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 130000,
+      "category": "JDM"
+    },
+    {
+      "name": "Alpha",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 35200,
+      "category": "<100k"
+    },
+    {
+      "name": "Emperor",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 4500,
+      "category": "<100k"
+    },
+    {
+      "name": "Washington",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 25500,
+      "category": "<100k"
+    },
+    {
+      "name": "Tailgater",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 26000,
+      "category": "<100k"
+    },
+    {
+      "name": "Feltzer",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55000,
+      "category": "<100k"
+    },
+    {
+      "name": "Banshee",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "<100k"
+    },
+    {
+      "name": "Stratum",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 8440,
+      "category": "<100k"
+    },
+    {
+      "name": "Glendale",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 11020,
+      "category": "<100k"
+    },
+    {
+      "name": "Panto",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 2500,
+      "category": "<100k"
+    },
+    {
+      "name": "Scheisser (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 50000,
+      "category": "<100k"
+    },
+    {
+      "name": "Scharmann (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 40000,
+      "category": "<100k"
+    },
+    {
+      "name": "Schafter",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 38000,
+      "category": "<100k"
+    },
+    {
+      "name": "Schafter LWB",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 49490,
+      "category": "<100k"
+    },
+    {
+      "name": "Schwartzer",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 46860,
+      "category": "<100k"
+    },
+    {
+      "name": "Club",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 28000,
+      "category": "<100k"
+    },
+    {
+      "name": "Coquette",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 75000,
+      "category": "<100k"
+    },
+    {
+      "name": "Weevil",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 21000,
+      "category": "<100k && Classic"
+    },
+    {
+      "name": "Weevil Custom",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 60000,
+      "category": "<100k && Classic"
+    },
+    {
+      "name": "Prairie",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 6250,
+      "category": "<100k"
+    },
+    {
+      "name": "Fugitive",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 12000,
+      "category": "<100k"
+    },
+    {
+      "name": "Surge",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 14000,
+      "category": "<100k"
+    },
+    {
+      "name": "Asea",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 6230,
+      "category": "<100k"
+    },
+    {
+      "name": "Premier",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 8250,
+      "category": "<100k"
+    },
+    {
+      "name": "Rhapsod",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 24000,
+      "category": "<100k"
+    },
+    {
+      "name": "Regina",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 5560,
+      "category": "<100k"
+    },
+    {
+      "name": "Habanero",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 8000,
+      "category": "<100k"
+    },
+    {
+      "name": "Brioso R/A",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 21500,
+      "category": "<100k"
+    },
+    {
+      "name": "Asterope",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 8000,
+      "category": "<100k"
+    },
+    {
+      "name": "Dilettante",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 0,
+      "turbo": 1,
+      "price": 2500,
+      "category": "<100k"
+    },
+    {
+      "name": "Felon",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 70000,
+      "category": "<100k"
+    },
+    {
+      "name": "Felon GT",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 75000,
+      "category": "<100k"
+    },
+    {
+      "name": "Asbo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 15000,
+      "category": "<100k"
+    },
+    {
+      "name": "Taligater",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 26000,
+      "category": "<100k"
+    },
+    {
+      "name": "Jackal",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 96000,
+      "category": "<100k"
+    },
+    {
+      "name": "Fusilade",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 34470,
+      "category": "<100k"
+    },
+    {
+      "name": "Oracle",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 68000,
+      "category": "<100k"
+    },
+    {
+      "name": "Oracle XS",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 51500,
+      "category": "<100k"
+    },
+    {
+      "name": "Oracle V12 (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 63700,
+      "category": "<100k"
+    },
+    {
+      "name": "Oracle V12 Touring (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 63700,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 32000,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel Classic Widebody",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel XS",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 53600,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 SE Sedan (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 42000,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 SE Drift (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 50000,
+      "category": "<100k"
+    },
+    {
+      "name": "Primo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 10240,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 SE Wagon (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 40500,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 SE Coupe (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 37800,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 SE Cabrio (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 35000,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 SE Wagon (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 40500,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG3 Drift (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 60000,
+      "category": "<100k"
+    },
+    {
+      "name": "Seraph (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 38500,
+      "category": "<100k"
+    },
+    {
+      "name": "Seraph XS LCI (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 45000,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel XS LCI (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 51500,
+      "category": "<100k"
+    },
+    {
+      "name": "Sentinel SG4 Coupe (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 52500,
+      "category": "<100k"
+    },
+    {
+      "name": "Torrence (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 60000,
+      "category": "<100k"
+    },
+    {
+      "name": "Streiter (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 87000,
+      "category": "<100k"
+    },
+    {
+      "name": "Zion",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 52750,
+      "category": "<100k"
+    },
+    {
+      "name": "Zion Cabrio",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 54200,
+      "category": "<100k"
+    },
+    {
+      "name": "Zion Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 80000,
+      "category": "<100k"
+    },
+    {
+      "name": "Minivan",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 6060,
+      "category": "<100k"
+    },
+    {
+      "name": "Radius",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 9000,
+      "category": "<100k"
+    },
+    {
+      "name": "Retinue MK2",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 40000,
+      "category": "<100k"
+    },
+    {
+      "name": "Retinue",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 40000,
+      "category": "<100k && Classic"
+    },
+    {
+      "name": "Fagaloa",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 12580,
+      "category": "<100k"
+    },
+    {
+      "name": "Ingot",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 7180,
+      "category": "<100k"
+    },
+    {
+      "name": "Nebula Turbo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 23490,
+      "category": "<100k"
+    },
+    {
+      "name": "Issi",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 4300,
+      "category": "<100k"
+    },
+    {
+      "name": "Schafter V12",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 115000,
+      "category": "<150k"
+    },
+    {
+      "name": "Ocelot F620",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 150000,
+      "category": "<150k"
+    },
+    {
+      "name": "Voltic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 0,
+      "turbo": 1,
+      "price": 150000,
+      "category": "<150k"
+    },
+    {
+      "name": "Comet",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 135000,
+      "category": "<150k"
+    },
+    {
+      "name": "Apollo (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 145000,
+      "category": "<150k"
+    },
+    {
+      "name": "Rapid GT (zwykły)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 110000,
+      "category": "<150k"
+    },
+    {
+      "name": "Surano",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 110000,
+      "category": "<150k"
+    },
+    {
+      "name": "Massacro",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 133000,
+      "category": "<150k"
+    },
+    {
+      "name": "Cypher",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 6,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 150000,
+      "category": "<150k"
+    },
+    {
+      "name": "Cypher Compact",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 6,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 135000,
+      "category": "<150k"
+    },
+    {
+      "name": "Sprizter STR",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 124000,
+      "category": "<150k"
+    },
+    {
+      "name": "Sprizter DTM",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 150000,
+      "category": "<150k"
+    },
+    {
+      "name": "Exemplar",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 115000,
+      "category": "<150k"
+    },
+    {
+      "name": "Taligater S",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 120000,
+      "category": "<150k"
+    },
+    {
+      "name": "Sentinel XS 2gen (Addon)",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 109500,
+      "category": "<150k"
+    },
+    {
+      "name": "Gauntlet Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 35660,
+      "category": "Muscle"
+    },
+    {
+      "name": "Gauntlet Classic Custom",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 65000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Gauntlet Hellfire",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 152780,
+      "category": "Muscle"
+    },
+    {
+      "name": "Greenwood",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 30000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Gauntlet",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 63200,
+      "category": "Muscle"
+    },
+    {
+      "name": "Howitzer",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 35660,
+      "category": "Muscle"
+    },
+    {
+      "name": "Howitzer S",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Recursion",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 22000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Buffalo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 34230,
+      "category": "Muscle"
+    },
+    {
+      "name": "Buffalo S",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65100,
+      "category": "Muscle"
+    },
+    {
+      "name": "Buffalo A/C",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Buffalo Hellhound",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 80000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Buffalo HellFire",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 213500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Picador",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 8900,
+      "category": "Muscle"
+    },
+    {
+      "name": "Tampa",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 30810,
+      "category": "Muscle"
+    },
+    {
+      "name": "Stalion",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 21110,
+      "category": "Muscle"
+    },
+    {
+      "name": "Vigero",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 21500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Vigero 690-SS",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 135000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Vigero ZX",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 211500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Yosemite",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Impaler",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 23030,
+      "category": "Muscle"
+    },
+    {
+      "name": "Tulip",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 24000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Vamos",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 70050,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dukes",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 42400,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dukes Beater",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 7500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Nightshade",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 125000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Phoenix",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 26970,
+      "category": "Muscle"
+    },
+    {
+      "name": "Ruiner",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 28690,
+      "category": "Muscle"
+    },
+    {
+      "name": "Ruiner ZZ-8",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 65000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Deviant",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 180980,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dominator",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 49200,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dominator ASP",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 72500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dominator Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 75000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dominator GTT",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 157000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Dominator GTX",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 120000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Slamvan",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 14500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Peyote",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 25000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Faction",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 7750,
+      "category": "Muscle"
+    },
+    {
+      "name": "Buccaneer",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 14000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Tornado",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 45000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Tornado Convertible",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 57000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Tornado Mariachi",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 6000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Tornado Rat Rod",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 5500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Blade",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 35000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Chino",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 12300,
+      "category": "Muscle"
+    },
+    {
+      "name": "Gresley Hellhound",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 67500
+    },
+    {
+      "name": "Hotknife",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 120000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Hustler",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 108000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Virgo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 9540,
+      "category": "Muscle"
+    },
+    {
+      "name": "Sabre",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 29100,
+      "category": "Muscle"
+    },
+    {
+      "name": "Pigalle",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 70000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Picador EXR",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 67100,
+      "category": "Muscle"
+    },
+    {
+      "name": "Sabre Deluxe",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55320,
+      "category": "Muscle"
+    },
+    {
+      "name": "Ellie",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 170000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Clique",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 4,
+      "turbo": 1,
+      "price": 55000,
+      "category": "Muscle"
+    },
+    {
+      "name": "Voodoo",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 5500,
+      "category": "Muscle"
+    },
+    {
+      "name": "Manana",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 9100,
+      "category": "Muscle"
+    },
+    {
+      "name": "Lurcher",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 100000,
+      "category": "Classic"
+    },
+    {
+      "name": "Fagaloa",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 12580,
+      "category": "Classic"
+    },
+    {
+      "name": "Nebula",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 23490,
+      "category": "<100k && Classic"
+    },
+    {
+      "name": "Idaho",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 7000,
+      "category": "Classic"
+    },
+    {
+      "name": "Coquette Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 0,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 250000,
+      "category": "Classic"
+    },
+    {
+      "name": "Maxwell Marki 1",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 325000,
+      "category": "Classic"
+    },
+    {
+      "name": "Michelli GT",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 4,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 135000,
+      "category": "Classic"
+    },
+    {
+      "name": "Dynasty",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 5,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 40000,
+      "category": "Classic"
+    },
+    {
+      "name": "Issi Classic",
+      "engine": 4,
+      "brakes": 3,
+      "suspension": 3,
+      "transmission": 3,
+      "turbo": 1,
+      "price": 55000,
+      "category": "Classic"
+    }
+  ]
 }
